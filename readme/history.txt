@@ -1,4 +1,8 @@
 
+2020.11.20
++ add: plugin uses snippets in new format (json), to load faster. All old snippets are converted to new format and published in addons with names "snippets_ct.<old_name>". Install needed snippets again. Paid work by @OlehL
++ add: plugin command "Convert snippets package from old format"
+
 2020.10.12
 + add: command "Remove VSCode snippets"
 + add: command "Visit homepage of VSCode snippets"
